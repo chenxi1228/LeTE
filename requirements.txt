@@ -1,0 +1,4 @@
+numpy==2.2.4
+torch==2.3.1+cu118
+torchvision==0.18.1+cu118
+tqdm==4.66.4
