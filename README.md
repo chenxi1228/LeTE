@@ -6,7 +6,7 @@ Code for the paper "Rethinking Time Encoding via Learnable Transformation Functi
 
 Please check the [preliminary version](LeTE.pdf) of our paper.
 
-We are currently preparing to upload the paper to [arXiv](https://arxiv.org/).
+We have uploaded a version to [arXiv](https://arxiv.org/pdf/2505.00887).
 
 
 ## Demo Experiments
@@ -14,3 +14,17 @@ We are currently preparing to upload the paper to [arXiv](https://arxiv.org/).
 You can run the demo experiments in the EventBasedMNIST.ipynb.
 
 This notebook is corresponding to the experiments in the paper Section 4.1 Time as the Only Input.
+
+## Citation
+
+```bibtext
+@misc{chen2025lete,
+      title={Rethinking Time Encoding via Learnable Transformation Functions}, 
+      author={Xi Chen and Yateng Tang and Jiarong Xu and Jiawei Zhang and Siwei Zhang and Sijia Peng and Xuehao Zheng and Yun Xiong},
+      year={2025},
+      eprint={2505.00887},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.00887}, 
+}
+```
