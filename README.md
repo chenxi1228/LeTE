@@ -2,11 +2,9 @@
 
 Code for the paper "Rethinking Time Encoding via Learnable Transformation Functions"
 
-🔥Our paper has been accepted by [ICML](https://icml.cc) 2025.
+🔥Our paper has been accepted by [ICML](https://icml.cc/virtual/2025/poster/43983) 2025.
 
-Please check the [preliminary version](LeTE.pdf) of our paper.
-
-We have uploaded a version to [arXiv](https://arxiv.org/pdf/2505.00887).
+You can also find the paper at [arXiv](https://arxiv.org/pdf/2505.00887).
 
 
 ## Demo Experiments
@@ -28,3 +26,6 @@ This notebook is corresponding to the experiments in the paper Section 4.1 Time 
       url={https://arxiv.org/abs/2505.00887}, 
 }
 ```
+
+## Poster
+
