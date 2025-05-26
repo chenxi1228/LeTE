@@ -28,4 +28,4 @@ This notebook is corresponding to the experiments in the paper Section 4.1 Time 
 ```
 
 ## Poster
-
+![Poster](LeTE_ICML_Poster.png)
