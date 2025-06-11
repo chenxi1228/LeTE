@@ -4,7 +4,7 @@
 
 **LeTE: Learnable Transformation-based Generalized Time Encoding**
 
-Code for the paper "Rethinking Time Encoding via Learnable Transformation Functions"
+Code for the paper **"Rethinking Time Encoding via Learnable Transformation Functions"**
 
 🔥Our paper has been accepted by [ICML](https://icml.cc/virtual/2025/poster/43983) 2025.
 
