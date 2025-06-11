@@ -1,6 +1,6 @@
 # LeTE 
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-2505.00887-b31b1b.svg)](https://arxiv.org/abs/2505.00887)&nbsp; 
 [![ICML](https://img.shields.io/badge/ICML%202025-blue.svg)](https://icml.cc/virtual/2025/poster/43983)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2505.00887-b31b1b.svg)](https://arxiv.org/abs/2505.00887)&nbsp; 
 
 **LeTE: Learnable Transformation-based Generalized Time Encoding**
 
